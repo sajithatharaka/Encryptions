@@ -3,8 +3,6 @@ package zip.viewer;
 import zip.encryption.Encryption;
 import zip.encryption.Zipper;
 import java.io.File;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 
